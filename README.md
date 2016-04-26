@@ -1,0 +1,2 @@
+# automan
+collect shell script
